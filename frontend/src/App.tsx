@@ -1,8 +1,11 @@
+import NotificationButton from './components/NotificationButton';
+
 function App() {
   return (
-    <div className='App'>
+    <>
       <h1>Hello Vite</h1>
-    </div>
+      <NotificationButton />
+    </>
   );
 }
 
