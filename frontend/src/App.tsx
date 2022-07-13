@@ -1,6 +1,5 @@
 import Header from './components/Header';
 import SalesCard from './components/SalesCard';
-import NotificationButton from './components/NotificationButton';
 
 function App() {
   return (
